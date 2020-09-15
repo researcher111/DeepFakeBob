@@ -1,3 +1,1 @@
-# You only need to follow to step to open the project: 
-  1. Click the file called deepFake.ipynb 
-  1. Then click the open in Colab button
+# Open the collab project use this link [a link](https://colab.research.google.com/github/researcher111/DeepFakeBob/blob/master/deepFake.ipynb) 
